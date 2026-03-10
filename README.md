@@ -4,7 +4,7 @@
 
 Este proyecto es un **conversor de monedas** desarrollado en Java que permite a los usuarios convertir entre distintas monedas utilizando datos en tiempo real desde la API [ExchangeRate-API](https://www.exchangerate-api.com/). Además, mantiene un **historial de conversiones** realizadas durante la ejecución del programa para referencia futura.
 
-El objetivo del proyecto es **practicar Programación Orientada a Objetos (POO), consumo de APIs, manejo de listas y arrays, y buenas prácticas en Java**, aplicando todo lo aprendido en el curso de Alura.
+El objetivo del proyecto es **practicar Programación Orientada a Objetos (POO), consumo de APIs, manejo de listas y arrays, y buenas prácticas en Java**,aplicando todo lo aprendido en el curso de Alura.
 
 ---
 
